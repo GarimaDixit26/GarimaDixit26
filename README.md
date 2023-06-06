@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Garima Dixit
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning web development
-- 📫 How to reach me email-garimadixitstp@gmail.com
+- 📫 How to reach me garimadixitstp@gmail.com
 
 <!---
 GarimaDixit26/GarimaDixit26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
