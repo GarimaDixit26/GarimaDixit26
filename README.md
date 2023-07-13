@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Garima Dixit
-- 👀 I’m interested in web development 
+- 👀 I’m learning in web development 
 - 🌱 I’m currently learning web development
 - 📫 How to reach me garimadixitstp@gmail.com
 
